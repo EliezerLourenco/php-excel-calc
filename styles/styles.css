@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+div{
+    margin: auto;
+    background-color: #386ab4;
+    width: 40%;
+    padding: 2%;
+}
+
+h3{
+    text-align: center;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+button[type="submit"] {
+    background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
